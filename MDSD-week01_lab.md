@@ -1806,9 +1806,9 @@ Format Strictness
 
 ### 3.5 Screenshot ของ AI Chat App
 
-```
 [แนบ Screenshot ของ Gemini AI Chat ที่ทำงานได้]
-```
+
+<img width="1593" height="898" alt="Screenshot 2026-07-16 164851" src="https://github.com/user-attachments/assets/60ff0f55-38ef-4eac-9e65-f19fc7a51c23" />
 
 ---
 
