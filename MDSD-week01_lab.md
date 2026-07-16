@@ -1722,12 +1722,10 @@ flutter run
 
 
 flutter doctor output:
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-<img width="1030" height="281" alt="image" src="https://github.com/user-attachments/assets/86da3842-39a5-41d4-b24a-f2127f0f2fdc" />
-│                                                         │
-└─────────────────────────────────────────────────────────┘
 
+<img width="1030" height="281" alt="image" src="https://github.com/user-attachments/assets/86da3842-39a5-41d4-b24a-f2127f0f2fdc" />
+
+```
 Flutter Version: ______10.0.26200.8875______
 Dart Version: ________3.12.2________
 Android SDK Version: ______34.0.0______
@@ -1735,9 +1733,10 @@ Android SDK Version: ______34.0.0______
 
 ### 3.2 Screenshot ของ Flutter App
 
-```
-[แนบ Screenshot ของ Profile Card App ที่สร้าง]
-```
+
+[<img width="1583" height="892" alt="image" src="https://github.com/user-attachments/assets/5863e507-841b-4205-b9a4-2839c41821f9" />
+]
+
 
 **Widget Tree ที่วาด:**
 
